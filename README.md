@@ -32,9 +32,6 @@ Open ```src/main.ipynb``` and run the cells in order from the top (download the 
 Python: Ver.3.9.2    
 Gradio: Ver.4.44.1
 
-## Result
-
-
 ## References
 [ODIAC Fossil Fuel CO₂ Emissions](https://us-ghg-center.github.io/ghgc-docs/user_data_notebooks/odiac-ffco2-monthgrid-v2023_User_Notebook.html)  
 [MiCASA Land Carbon Flux](https://us-ghg-center.github.io/ghgc-docs/user_data_notebooks/micasa-carbonflux-daygrid-v1_User_Notebook.html)  
