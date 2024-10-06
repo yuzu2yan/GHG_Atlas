@@ -2,6 +2,7 @@
 ![release_date](https://img.shields.io/badge/release_date-Oct_2024-yellow)
 [![python](https://img.shields.io/badge/python-v3.9.2-blue)](https://www.python.org/downloads/release/python-392/)
 [![Gradio](https://img.shields.io/badge/Gradio-v4.44.1-blue)](https://www.gradio.app/)   
+## 🏆Tokyo Venue Special Award!!
 
 This is a project of NASA Space Apps Challenge 2024🚀 
 
